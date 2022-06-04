@@ -6,6 +6,6 @@ Un exemple tout simple. Le code python peut-être exécuté et vous pouvez-obser
 print('Hello World!')
 ```
 
-# Advanced usage
+# Pour aller plus loin
 
-If you want a more complex example (external libraries, viewers...), use the [Advanced Python template](https://tech.io/select-repo/429)
+Allez jeter un oeil à [Advanced Python template](https://tech.io/select-repo/429)
